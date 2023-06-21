@@ -2,7 +2,7 @@ macro_macro_o: macro_macro_o{
 compatible = "zmk,behavior-macro";
 label = "macro_macro_o";
 #binding-cells = <0>;
-bindings = <&kp LSHFT>, <&kp O>;
+bindings = <&sk LSHFT>, <&kp O>;
 };
 macro_macro_oe: macro_macro_oe{
 compatible = "zmk,behavior-macro";

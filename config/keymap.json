@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",        "&none",        "&none",                                                        "&none",                          "&none",                                          "&none",      "&none",           "&none",      "&none",      "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                       "&bl BL_INC", "&bl BL_DEC",      "&none",                     "&bl BL_TOG",      "&none",                  "&none",           "&bl BL_TOG", "&rgb_ug RGB_TOG", "&bl BL_INC", "&bl BL_DEC",  "&none"
     ], [
-       "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans",         "&trans",          "&trans", "&trans",
-       "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&macro_macro_o",          "&trans", "&trans",
-       "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",         "&trans", "&macro_macro_oe", "&trans",
-       "&trans", "&kp LT", "&kp PIPE", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans",         "&trans",          "&trans", "&trans",
-       "&trans", "&trans",   "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans",         "&trans",          "&trans", "&trans"
+       "&trans", "&kp EXCLAMATION", "&kp DOUBLE_QUOTES",   "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans",         "&trans",          "&trans", "&trans",
+       "&trans",          "&trans",            "&trans",   "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&macro_macro_o",          "&trans", "&trans",
+       "&trans",          "&trans",            "&trans",   "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",         "&trans", "&macro_macro_oe", "&trans",
+       "&trans",          "&kp LT",            "&kp GT", "&kp PIPE", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans",         "&trans",          "&trans", "&trans",
+       "&trans",          "&trans",            "&trans",   "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans",         "&trans",          "&trans", "&trans"
     ]
   ]
 }

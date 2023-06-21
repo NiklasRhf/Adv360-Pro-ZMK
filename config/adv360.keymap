@@ -79,11 +79,11 @@
 
         layer_Symbols {
             bindings = <
- &trans  &trans    &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans          &trans           &trans  &trans
- &trans  &trans    &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &macro_macro_o           &trans  &trans
- &trans  &trans    &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans          &trans  &macro_macro_oe  &trans
- &trans  &kp LT  &kp PIPE  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans          &trans           &trans  &trans
- &trans  &trans    &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans          &trans           &trans  &trans
+ &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES    &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans          &trans           &trans  &trans
+ &trans           &trans             &trans    &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &macro_macro_o           &trans  &trans
+ &trans           &trans             &trans    &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans          &trans  &macro_macro_oe  &trans
+ &trans           &kp LT             &kp GT  &kp PIPE  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans          &trans           &trans  &trans
+ &trans           &trans             &trans    &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans          &trans           &trans  &trans
             >;
         };
 
