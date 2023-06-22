@@ -1,3 +1,9 @@
+macro_test: macro_test{
+compatible = "zmk,behavior-macro";
+label = "macro_test";
+#binding-cells = <0>;
+bindings = <&sk RIGHT_ALT>, <&kp NON_US_BSLH>;
+};
 macro_asdf: macro_asdf{
 compatible = "zmk,behavior-macro";
 label = "macro_asdf";
