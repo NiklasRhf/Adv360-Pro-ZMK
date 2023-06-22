@@ -79,11 +79,11 @@
 
         layer_Shifted {
             bindings = <
- &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES     &none        &none   &none            &trans                                                         &trans          &trans            &trans  &trans          &trans           &trans  &trans
- &trans           &trans             &trans    &trans       &trans  &trans            &trans                                                         &trans          &trans            &trans  &trans  &macro_macro_o           &trans  &trans
- &trans            &none              &none     &none        &none   &none            &trans  &trans  &trans                         &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_BRACKET  &trans          &trans  &macro_macro_oe  &trans
- &trans  &kp NON_US_BSLH        &macro_test  &kp PIPE  &macro_asdf   &none                            &trans                  &kp RIGHT_ALT                          &trans            &trans  &trans          &trans           &trans  &trans
- &trans           &trans             &trans    &trans       &trans                    &trans  &trans  &trans                         &trans  &trans  &trans                            &trans  &trans          &trans           &trans  &trans
+ &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES     &none         &none   &none            &trans                                                         &trans          &trans            &trans  &trans          &trans           &trans  &trans
+ &trans           &trans             &trans    &trans        &trans  &trans            &trans                                                         &trans          &trans            &trans  &trans  &macro_macro_o           &trans  &trans
+ &trans            &none              &none     &none         &none   &none            &trans  &trans  &trans                         &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_BRACKET  &trans          &trans  &macro_macro_oe  &trans
+ &trans  &kp NON_US_BSLH        &macro_test  &kp PIPE  &macro_test1   &none                            &trans                  &kp RIGHT_ALT                          &trans            &trans  &trans          &trans           &trans  &trans
+ &trans           &trans             &trans    &trans        &trans                    &trans  &trans  &trans                         &trans  &trans  &trans                            &trans  &trans          &trans           &trans  &trans
             >;
         };
 
