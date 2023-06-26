@@ -82,8 +82,8 @@
             bindings = <
  &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES     &none         &none   &none            &trans                                                         &trans          &trans            &trans  &trans          &trans           &trans  &trans
  &trans           &trans             &trans    &trans        &trans  &trans            &trans                                                         &trans          &trans            &trans  &trans  &macro_macro_o           &trans  &trans
- &trans  &kp DE_PLUS              &none     &none         &none   &none            &trans  &trans  &trans                         &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_BRACKET  &trans          &trans  &macro_macro_oe  &trans
- &trans  &kp DE_P        &macro_test  &kp PIPE  &macro_test1   &none                            &trans                  &kp RIGHT_ALT                          &trans            &trans  &trans          &trans           &trans  &trans
+ &trans  &kp DE_LCBR              &kp DE_RCBR     &none         &none   &none            &trans  &trans  &trans                         &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_BRACKET  &trans          &trans  &macro_macro_oe  &trans
+ &trans  &kp DE_LABK        &kp DE_RABK     &kp DE_PIPE  &macro_test1   &none                            &trans                  &kp RIGHT_ALT                          &trans            &trans  &trans          &trans           &trans  &trans
  &trans           &trans             &trans    &trans        &trans                    &trans  &trans  &trans                         &trans  &trans  &trans                            &trans  &trans          &trans           &trans  &trans
             >;
         };
