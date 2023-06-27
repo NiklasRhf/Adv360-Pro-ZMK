@@ -52,7 +52,7 @@
 #define DE_I    I    // I
 #define DE_O    O    // O
 #define DE_P    P    // P
-#define DE_UDIA LBRC // Ü
+#define DE_UDIA LBKT // Ü
 #define DE_PLUS RBRC // +
 #define DE_PL   RBKT // +
 #define DE_A    A    // A
