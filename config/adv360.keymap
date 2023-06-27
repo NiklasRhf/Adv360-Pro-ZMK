@@ -82,7 +82,7 @@
             bindings = <
  &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES     &none         &none         &none            &trans                                                                &trans          &trans            &trans       &trans          &trans           &trans       &trans
  &trans  &kp DE_AT        &kp UP                &kp DE_EURO   &trans        &trans           &trans                                                               &trans          &trans            &trans       &trans          &kp DE_EQL       &kp DE_QUES  &kp DE_PLUS
- &trans  &kp LEFT         &kp DOWN              &kp RIGHT     &trans        &kp LEFT_ALT     &trans  &trans  &trans                         &trans  &trans         &trans          &kp DE_LCBR       &kp DE_RCBR  &kp DE_LBRC     &kp DE_RBRC      &kp DE_SS    &kp DE_HASH
+ &trans  &kp LEFT         &kp DOWN              &kp RIGHT     &kp LEFT_ALT  &kp DE_LALC     &trans  &trans  &trans                         &trans  &trans         &trans          &kp DE_LCBR       &kp DE_RCBR  &kp DE_LBRC     &kp DE_RBRC      &kp DE_SS    &kp DE_HASH
  &trans  &kp DE_LABK      &kp DE_RABK           &kp DE_PIPE   &kp DE_CIRC   &none                            &trans                         &kp RIGHT_ALT                          &trans            &trans       &kp DE_GRV      &kp DE_BSLS           &kp DE_TILD       &trans
  &trans  &trans           &trans                &trans        &trans                    &trans  &trans  &trans                        &trans  &trans  &trans                                   &trans       &trans          &trans           &trans       &trans
             >;
