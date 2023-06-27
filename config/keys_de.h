@@ -54,6 +54,7 @@
 #define DE_P    P    // P
 #define DE_UDIA LBRC // Ü
 #define DE_PLUS RBRC // +
+#define DE_PL   RBKT // +
 #define DE_A    A    // A
 #define DE_S    S    // S
 #define DE_D    D    // D
@@ -91,6 +92,7 @@
 #define DE_QUES LS(DE_SS)   // ?
 #define DE_GRV  LS(DE_ACUT) // ` (dead)
 #define DE_ASTR LS(DE_PLUS) // *
+#define DE_AST  LS(DE_PL) // *
 #define DE_QUOT LS(DE_HASH) // '
 #define DE_RABK LS(DE_LABK) // >
 #define DE_SCLN LS(DE_COMM) // ;
