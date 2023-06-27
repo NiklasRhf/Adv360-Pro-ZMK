@@ -20,6 +20,17 @@
 #include "keys_de.h"
 
 / {
+    combos {
+        compatible = "zmk,combos";
+        combo_alt_ctrl {
+            timeout-ms = <50>;
+            key-positions = <10 11 12>;
+            bindings = <&kp DE_LALC>;
+        };
+    };
+};
+
+/ {
   behaviors {
     #include "macros.dtsi"
 
