@@ -80,11 +80,11 @@
 
         layer_Shifted {
             bindings = <
- &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES     &none         &none   &none            &trans                                                         &trans          &trans            &trans  &trans          &trans           &trans  &trans
- &trans           &trans             &trans    &trans        &trans  &trans            &trans                                                         &trans          &trans            &trans  &trans  &macro_macro_o           &trans  &trans
- &trans  &kp DE_LCBR              &kp DE_RCBR     &none         &none   &none            &trans  &trans  &trans                         &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_BRACKET  &trans          &trans  &macro_macro_oe  &trans
- &trans  &kp DE_LABK        &kp DE_RABK     &kp DE_PIPE  &macro_test1   &none                            &trans                  &kp RIGHT_ALT                          &trans            &trans  &trans          &trans           &trans  &trans
- &trans           &trans             &trans    &trans        &trans                    &trans  &trans  &trans                         &trans  &trans  &trans                            &trans  &trans          &trans           &trans  &trans
+ &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES     &none         &none         &none            &trans                                                                &trans          &trans            &trans       &trans          &trans           &trans       &trans
+ &trans  &kp DE_AT        &kp UP                &kp DE_EURO   &trans        &trans           &trans                                                               &trans          &trans            &trans       &trans          &kp DE_EQL       &kp DE_QUES  &kp DE_PLUS
+ &trans  &kp LEFT         &kp DOWN              &kp RIGHT     &kp DE_CTLS   &kp LEFT_ALT     &trans  &trans  &trans                         &trans  &trans         &trans          &kp DE_LCBR       &kp DE_RCBR  &kp DE_LBRC     &kp DE_RBRC      &kp DE_SS    &kp DE_HASH
+ &trans  &kp DE_LABK      &kp DE_RABK           &kp DE_PIPE   &kp DE_CIRC   &none                            &trans                         &kp RIGHT_ALT                          &trans            &trans       &kp DE_GRV      &kp DE_BSLS           &kp DE_TILD       &trans
+ &trans  &trans           &trans                &trans        &trans                    &trans  &trans  &trans                        &trans  &trans  &trans                                   &trans       &trans          &trans           &trans       &trans
             >;
         };
 
