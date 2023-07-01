@@ -60,7 +60,7 @@
    &kp TAB      &kp Q     &kp W     &kp E      &kp R   &kp T                &kp DE_LALC                                                                     &none   &kp Y   &kp U      &kp I     &kp O     &kp P   &kp DE_UDIA
    &kp ESC      &kp A     &kp S     &kp D      &kp F   &kp G                &none  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL          &none   &kp H   &kp J      &kp K     &kp L  &kp SEMI    &kp SQT
  &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                                  &kp HOME                  &kp PG_UP                             &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp RSHFT
- &kp LCTRL  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE    &kp DEL     &mo 4                     &trans  &kp ENTER  &kp BACKSPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT      &mo 2
+ &kp LCTRL  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE    &mo 4     &kp LALT                      &DEL &kp ENTER  &kp BACKSPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT      &mo 2
             >;
         };
 
@@ -98,7 +98,7 @@
             bindings = <
  &trans  &kp EXCLAMATION  &kp DOUBLE_QUOTES     &none         &none         &none            &trans                                                                &trans          &trans            &trans       &trans          &trans           &trans       &kp DE_AST
  &trans  &kp DE_AT        &kp UP                &kp DE_EURO   &trans        &sk DE_LALC          &trans                                                               &trans          &trans            &trans       &trans          &kp DE_EQL       &kp DE_QUES  &kp DE_PL
- &trans  &kp LEFT         &kp DOWN              &kp RIGHT     &kp LALT      &kp DE_LALC     &trans  &trans  &trans                         &trans  &trans         &trans          &kp DE_LCBR       &kp DE_RCBR  &kp DE_LBRC     &kp DE_RBRC      &kp DE_SS    &kp DE_HASH
+ &trans  &kp LEFT         &kp DOWN              &kp RIGHT     &trans        &trans     &trans  &trans  &trans                         &trans  &trans         &trans          &kp DE_LCBR       &kp DE_RCBR  &kp DE_LBRC     &kp DE_RBRC      &kp DE_SS    &kp DE_HASH
  &trans  &kp DE_LABK      &kp DE_RABK           &kp DE_PIPE   &kp DE_CIRC   &none                            &trans                         &kp RIGHT_ALT                          &trans            &trans       &kp DE_GRV      &kp DE_BSLS           &kp DE_TILD       &trans
  &trans  &trans           &trans                &trans        &trans                    &trans  &trans  &trans                        &trans  &trans  &trans                                   &trans       &trans          &trans           &trans       &trans
             >;
